@@ -29,3 +29,12 @@
   .badgeHielo{
       background-color: #51c4e7;
   }
+
+  .imagenprincipal {
+    width: 100%;
+  }
+  
+  .imagenprincipaltamaño {
+    object-fit: cover;
+    height: 300px;
+  }
